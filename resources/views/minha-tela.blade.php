@@ -12,7 +12,7 @@
 <div class="min-h-screen">
   
 
-  <div class="flex  justify-items-center space-x-9 bg-red-700">
+  <div class="flex justify-center space-x-9 bg-red-700">
   
 
     <div class="text-gray-400 font-bold">
@@ -32,7 +32,7 @@
 
   </div>
   <div>
-    <img class="opacity-50" src="https://i0.wp.com/www2.tatui.sp.gov.br/wp-content/uploads/2022/02/FATEC-1.jpeg?fit=800%2C534&ssl=1" alt="">
+    <img class="opacity-50 w-full" src="https://i0.wp.com/www2.tatui.sp.gov.br/wp-content/uploads/2022/02/FATEC-1.jpeg?fit=800%2C534&ssl=1" alt="">
   </div>
   <div class="right-0 absolute top-36 ">
       <button class="block bg-red-600 border text-white w-40 h-12 px-4 py-2 rounded">
